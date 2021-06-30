@@ -1,0 +1,13 @@
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CopyComplete
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.MakePost.resources
+C:\Users\tochi\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.GenerateResource.cache
